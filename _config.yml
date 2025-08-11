@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "宋伊桐 / Site Title"
+title                    : "宋伊桐"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "宋伊桐"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Phd"
+  location         : "Beijing"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2501112463@stu.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
