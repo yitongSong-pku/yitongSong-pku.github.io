@@ -32,7 +32,7 @@ author:
   email            : "2501112463@stu.pku.edu.cn" 
 
   # Academic websites
-  academia         : 1
+  academia         : #
   arxiv            : # URL - Update with the correct link to your profile
   inspire-hep      : # URL
   impactstory      : # URL
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -221,10 +221,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: FALSE
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: FALSE
     permalink: /:collection/:path/
 
 
