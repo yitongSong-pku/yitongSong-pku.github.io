@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "宋伊桐的个人主页"
+title                    : "宋伊桐 / 个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
