@@ -221,10 +221,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: FALSE
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: FALSE
+    output: false
     permalink: /:collection/:path/
 
 
